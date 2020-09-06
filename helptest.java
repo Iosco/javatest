@@ -1,5 +1,5 @@
 
-/**
+/*
  * this is quite frankly, a small test, to feel the ropes of Java and the BlueJ software. Nothing big, might put it on github to work that out as well. 
  *
  * 
@@ -10,7 +10,7 @@ public class helptest
     // instance variables - replace the example below with your own
     private int x;
 
-    /**
+    /*
      * Constructor for objects of class helptest
      */
     public helptest()
@@ -19,7 +19,7 @@ public class helptest
         x = 0;
     }
 
-    /**
+    /*
      * An example of a method - replace this comment with your own
      *
      * @param  y  a sample parameter for a method
